@@ -108,3 +108,5 @@ deploy:
 # in theme directory(source/images): /images/avatar.gif
 # in site  directory(source/uploads): /uploads/avatar.gif
 avatar: /images/kobekoto.jpg
+
+theme: jekyll-theme-cayman
