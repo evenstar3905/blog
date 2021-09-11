@@ -100,10 +100,10 @@ appearance:
 profile:
   # `email` is used for gravatar(https://en.gravatar.com),
   # fallback to `hexo.config.email` if not specified
-  email:
+  email: kobekoto@outlook.com
 
   # You can set Avatar URL directly
-  # avatar:
+  avatar: /images/kobekoto.jpg
 
   bio: Awesome guy.
 
